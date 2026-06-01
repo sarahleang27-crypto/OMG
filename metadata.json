@@ -1,0 +1,10 @@
+{
+  "name": "Sarah Leang - AI Assistant BEN",
+  "description": "Bilingual futuristic portfolio and interactive assistant for Sarah Leang, featuring voice visualization and responsive chat in French and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
